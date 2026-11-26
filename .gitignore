@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+# figures of the paper are produced by the scripts, not stored
+figures/svw_*.png
